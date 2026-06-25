@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is a [Hyde](https://github.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME.github.io) blog -- a fork of the [Reverie](https://github.com/amitmerchant1990/reverie) Jekyll theme with an added mobile post composer.
+This is a [Hyde](https://github.com/neely/hyde) blog -- a fork of the [Reverie](https://github.com/amitmerchant1990/reverie) Jekyll theme with an added mobile post composer.
 
 Replace this page with a real "about" for your own blog once you're set up.
 
